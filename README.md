@@ -1,38 +1,26 @@
-# 👋 Olá, eu sou o Pedro Castelo Branco
+# Pedro Castelo Branco
 
-🎓 Estudante de **Sistemas de Informação no IFF**  
-💻 Interessado em **Desenvolvimento de Software, Automações e Integrações**  
-📍 Campos dos Goytacazes - RJ, Brasil
+Estudante de Sistemas de Informação no IFF e atualmente trabalho com tecnologia em um e-commerce.
 
-Atualmente venho desenvolvendo projetos voltados para automação de processos e sistemas internos, trabalhando principalmente com integrações entre APIs e aplicações web.
+Tenho usado o trabalho também como espaço para aprender na prática, principalmente criando ferramentas internas e automações para processos que antes eram feitos manualmente.
 
-## 🚀 Tecnologias que estou utilizando
+Hoje tenho contato principalmente com JavaScript, React, TypeScript, PostgreSQL, Supabase, APIs e Cloudflare Workers.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-000?style=for-the-badge&logo=cloudflare)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+## Projetos
 
-## 🧩 Projetos
+### Outside Software
+Sistema interno que venho desenvolvendo para centralizar e facilitar algumas rotinas da operação, como pedidos, clientes, devoluções e venda assistida.
 
-### 🏢 Outside Software
-Sistema interno desenvolvido para auxiliar processos operacionais e comerciais de e-commerce.
+### Coletor de biotipo
+Automação criada para um processo que antes dependia bastante de acompanhamento manual.
 
-### 🏊 Coletor de Biotipo
-Automação serverless para coleta, validação e acompanhamento de informações de biotipo em atendimentos.
+O sistema acompanha conversas de atendimento, interpreta os dados enviados pelo cliente, identifica o que ainda está faltando e organiza as informações para a equipe responsável pela análise.
 
-`JavaScript` `Cloudflare Workers` `Durable Objects` `REST APIs`
+Foi um dos projetos em que comecei a trabalhar mais com APIs, webhooks, Cloudflare Workers e controle de estado.
 
-### ⚡ Disparador de Confirmação
-Automação para integrar pedidos do Bling ao fluxo de atendimento e confirmação de biotipo.
-
-`Bling API` `Webhooks` `Cloudflare Workers` `Hubbie API`
+### Automação Bling + Hubbie
+Projeto em desenvolvimento para automatizar o início do processo de confirmação de tamanho a partir de pedidos pagos no Bling.
 
 ---
 
-### 📚 Atualmente aprendendo
-
-Aprofundando meus conhecimentos em desenvolvimento de software, APIs, bancos de dados e automação de processos.
+Cursando Sistemas de Informação — IFF Campos Centro
